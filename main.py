@@ -28,3 +28,5 @@ if reg_name.match(user_email):
     print(f"E-mail {user_email} принят!")
 else:
     print("Ввод некорректен! Повторите ввод данных!\n")
+
+print("Выполненная задача от Васи!")
